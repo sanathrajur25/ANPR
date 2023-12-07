@@ -3,7 +3,7 @@ Requirments - latest Python and Visual studio code IDE
 Link to download Visual studio code ide - https://code.visualstudio.com/download
 
 # ---------------------steps to run the code-------------------#
-Step1: Download the xip file or the project 
+Step1: Download the xip file or the project \n
 Step2: Unzip 
 Step3: Open the folder in VS Code
 Step4: Run mainwindow.py , this will activate the virtual enviornment
