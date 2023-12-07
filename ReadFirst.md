@@ -15,4 +15,6 @@ Step 5: This is how the execution goes -
         v) you can use clear button to clear all data from the screen.
 Step5: Incase of the images they are stored in a folder called assets and please ONLY USE THOSE IMAGES
 
+# important 
+run "python -m pip install easyocr" once in terminal before running code make sure u run it in the virtual environment 
 
